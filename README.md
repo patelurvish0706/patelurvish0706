@@ -1,6 +1,6 @@
 # Hello, I'm Urvish Patel 👋
 
-I am an IT engineer passionate about technology and its application to solve real-world problems. I enjoy working on various aspects of software development, from building web applications to exploring web application devlopment and Data structure.
+I am an IT engineer passionate about technology and its application to solve real-world problems. I enjoy working on various aspects of software development, from building web applications to exploring web application devlopment and Data structure. In addition, I'm enthusiastic about leveraging cloud technologies to design, develop, and deploy scalable solutions
 
 ## 🔧 Technologies & Tools
 
@@ -16,7 +16,7 @@ Here are some of the technologies and tools I have experience with:
 I believe in continuous learning and self-improvement. Currently, I am focusing on:
 
 - Deepening my understanding of Data stucture and algorithms.
-- Exploring web apps and software development.
+- Exploring web apps and software development and its integration with cloud platforms.
 
 
 ## 📫 Let's Connect!
