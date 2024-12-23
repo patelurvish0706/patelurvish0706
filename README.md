@@ -6,7 +6,7 @@ I am an IT engineer passionate about technology and its application to solve rea
 
 Here are some of the technologies and tools I have experience with:
 
-- Programming Languages: Python, JavaScript, Java
+- Programming Languages: JavaScript, Java
 - Web Development: HTML, CSS, React.js, Node.js
 - Database: MySQL, MongoDB (Learning)
 - Version Control: Git, GitHub
